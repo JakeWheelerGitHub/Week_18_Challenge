@@ -1,0 +1,987 @@
+   50  git add loan_qualifer_app
+   51  git add loan_qualifier_app
+   52  git status
+   53  git commit -m "Added save qualifying loans function"
+   54  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+   55  git add loan_qualifier_app
+   56  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+   57  git push main
+   58  git status
+   59  git status main
+   60  git checkout main
+   61  git checkout Main
+   62  git init git@github.com:JakeWheelerGitHub/Week-2-Challenge.git
+   63  git status
+   64  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge'
+   65  git add loan_qualifer_app
+   66  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+   67  clear
+   68  git push -u origin main
+   69  git push -u main
+   70  git checkout -b main
+   71  git status
+   72  git add loan_qualifer_app
+   73  git add loan_qualifer_app/app.py
+   74  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app'
+   75  git status
+   76  git commit -m "Added writing qualifying loans to csv file"
+   77  git push
+   78  git push main
+   79  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+   80  git push git@github.com:JakeWheelerGitHub/Week-2-Challenge.git
+   81  clear
+   82  pwd
+   83  cd ..
+   84  ls
+   85  cd week 2 updated
+   86  cd Week\ 2\ UPDATED
+   87  cd ..
+   88  cd..
+   89  cd..
+   90  cd ..
+   91  cd ..
+   92  cd ..
+   93  cd ..
+   94  cd ..
+   95  pwd
+   96  ls 
+   97  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+   98  cd users
+   99  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  100  cd jakewheeler
+  101  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  102  cd Week 2 Challenge
+  103  clear
+  104  ls 
+  105  cd fintech
+  106  cd Challenges
+  107  cd GIT_Week-2-Challenge-
+  108  ls
+  109  cd Starter_Code
+  110  ls
+  111  clear
+  112  pwd
+  113  ls
+  114  ls
+  115  cd ..
+  116  cd Starter_Code
+  117  ls
+  118  clear
+  119  git init 
+  120  git config --global init.defaultBranch main
+  121  git add . 
+  122  pwd
+  123  ccd ..
+  124  cd ..
+  125  cd '/Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-'
+  126  pwd
+  127  git init
+  128  git add .
+  129  git commit -m "Reorganized file structure" 
+  130  git push 
+  131  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  132  /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/data/daily_rate_sheet.
+  133  clear
+  134  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  135  git init
+  136  git add .
+  137  git commit -m "Added function that saves qualifying loans to csv file"
+  138  git push
+  139  clear
+  140  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  141  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  142  clear
+  143  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  144  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  145  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  146  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  147  git init
+  148  git add .
+  149  git commit -m "Added function that saves qualifying loans to csv file"
+  150  git push
+  151  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  152  clear
+  153  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  154  clear
+  155  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  156  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  157  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  158  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  159  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  160  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  161  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  162  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  163  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  164  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  165  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  166  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  167  clear
+  168  git init
+  169  git add .
+  170  git commit -m "Added CLI to ask if user would like to save loans to CSV file"
+  171  git push
+  172  clear
+  173  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  174  clear
+  175  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  176  clear
+  177  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  178  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  179  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  180  clear
+  181  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  182  clear
+  183  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  184  git init
+  185  git add .
+  186  git commit -m "Added CLI to ask user where to save loans CSV file"
+  187  git push
+  188  clear
+  189  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  190  clear
+  191  git init
+  192  git add .
+  193  git commit -m "Testing image in ReadMe"
+  194  git push
+  195  clear
+  196  git init
+  197  git add .
+  198  git commit -m "Updated ReadMe"
+  199  git push
+  200  git init
+  201  git add .
+  202  git commit -m "Updated readme formatting"
+  203  git push
+  204  git commit -m "Updated readme formattting"
+  205  git init
+  206  git add .
+  207  git commit -m " updated readme formatting"
+  208  git push
+  209  git init
+  210  git add .
+  211  git commit -m "Spelling and final readme updates"
+  212  git push
+  213  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  214  clear
+  215  git init
+  216  git add . 
+  217  git commit -m "Added more comments to the application" 
+  218  git push
+  219  history 50 > terminal_history.txt\n
+  220  clear
+  221  git init
+  222  git add .
+  223  git commit -m "added terminal_history.txt"
+  224  git push
+  225  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  226  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  227  cd
+  228  pwed
+  229  pwd
+  230  cd 
+  231  ls
+  232  cd fintech
+  233  ls
+  234  cd challenges
+  235  psd
+  236  pwd
+  237  ls
+  238  cd Week\ 2\ Challenge
+  239  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  240  clear
+  241  conda activate dev
+  242  jupyterlab
+  243  jupyter lab
+  244  clear
+  245  conda activate dev
+  246  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  247  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  248  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  249  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  250  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  251  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  252  conda activate dev
+  253  conda activate dev
+  254  conda activate dev
+  255  pwd
+  256  cd ..
+  257  pwd
+  258  git clone git@github.com:JakeWheelerGitHub/week_3_challenge.git
+  259  gconda activate dev
+  260  git init
+  261  git add . 
+  262  git commit -m "Analyze data pt 1-3 complete"
+  263  git commit -m "Analyze data pt 1-6 complete"
+  264  git push
+  265  git status
+  266  git init
+  267  git add .
+  268  git commit -m "Analyze data pt 1-6 complete"
+  269  git push
+  270  pwd
+  271  history 50 > terminal_history.txt
+  272  conda activate dev
+  273  git init
+  274  git add .
+  275  git commit -m "Analysis report complete"
+  276  git push
+  277  history 50 > terminal_history1.txt
+  278  conda activate dev
+  279  conda activate dev
+  280  history 50 > terminal_history.txt
+  281  history 50 > terminal_history2.txt
+  282  pwd
+  283  conda activate dev
+  284  git init
+  285  git add .
+  286  git status
+  287  git commit -m "Data Collection Complete"
+  288  git push
+  289  history 50 > terminal_history2.txt
+  290  gconda activate dev
+  291  git init
+  292  git add .
+  293  git commit -m "Prepare the Data Complete"
+  294  git push
+  295  history 50 > terminal_history3.txt
+  296  conda activate dev
+  297  git init
+  298  git add .
+  299  git commit -m "Analyze data pt 1-3 complete" 
+  300  git push
+  301  history 50 > terminal_history4.txt\n
+  302  conda activate dev
+  303  git init
+  304  git add .
+  305  git commit -m "Added comments, coding complete"
+  306  git push
+  307  history 50 > terminal_history5.txt\n
+  308  conda activate dev
+  309  history 50 > terminal_history6.txt\n
+  310  conda activate dev
+  311  history 50 > terminal_history7.txt
+  312  pwd
+  313  conda activate dev
+  314  git init
+  315  git add .
+  316  git commit -m "Updated readme"
+  317  git push
+  318  git init
+  319  git add .
+  320  git commit -m "Finalized ReadMe spelling"
+  321  git push
+  322  pwd
+  323  history 50 > terminal_history.txt
+  324  cd ..
+  325  pwd
+  326  history 50 > terminal_history.txt
+  327  cd ..
+  328  conda activate dev
+  329  history 50 > terminal_history.txt
+  330  conda activate dev
+  331  history 50 > terminal_history.pwd
+  332  pwd
+  333  history 50 > terminal_history.txt\n
+  334  git init
+  335  git add
+  336  git add .
+  337  git commit -m "Added terminal history"
+  338  git push
+  339  conda list requests
+  340  conda list json
+  341  pip install python-dotenv
+  342  pip install alpaca-trade-api\n
+  343  pip list | grep -E "python-dotenv|alpaca-trade-api"\n
+  344  conda activate dev
+  345  conda activate dev
+  346  cd ..
+  347  pwd
+  348  cd 
+  349  ls Fintech
+  350  cd Fintech
+  351  cd API\ Keys
+  352  python -m pip install python-dotenv\n\n
+  353  conda activate dev
+  354  pip3 uninstall python-dotenv
+  355  pip3 install -U python-dotenv\n
+  356  conda activate dev
+  357  cd ..
+  358  pip install alpaca_trade_api\n\n
+  359  conda activate dev
+  360  conda activate dev
+  361  conda activate dev
+  362  conda activate dev
+  363  git clone git@github.com:JakeWheelerGitHub/Week_4_Challenge.git
+  364  conda activate dev
+  365  git init
+  366  git add .
+  367  cd
+  368  pwd
+  369  cd Fintech
+  370  cd Challenges
+  371  cd Week_4_Challenge
+  372  pwd
+  373  git init
+  374  git add .
+  375  git commit -m "Import the Data complete"
+  376  git status
+  377  git push
+  378  pwd
+  379  git init
+  380  git add
+  381  git add .
+  382  git commit -m "Analyze the Volatility complete"
+  383  git push
+  384  pwd
+  385  git init
+  386  git add .
+  387  git status
+  388  git commit -m "Analyze the Risk complete"
+  389  git push
+  390  pwd
+  391  git init
+  392  git add .
+  393  git commit -m " Analyze the Risk-Return Profile complete"\n
+  394  git push
+  395  git init
+  396  git add .
+  397  git commit -m "Coding complete"
+  398  git push
+  399  git init
+  400  git add .
+  401  git commit -m "Final formatting and commenting"
+  402  git push
+  403  20 terminal history
+  404  history 20 > terminal_history.txt\n
+  405  git init
+  406  git add .
+  407  git status
+  408  git commit -m "Terminal history"
+  409  git push
+  410  git init
+  411  git add .
+  412  git status
+  413  history 50 > terminal_history.txt\n
+  414  git status
+  415  git push
+  416  git commit -m "Added ReadMe"
+  417  git push
+  418  history 50 > terminal_history.txt\n
+  419  git init
+  420  git add .
+  421  git status
+  422  git commit "Added terminal history"
+  423  git commit -m "added terminal history"
+  424  git push
+  425  open code
+  426  code .
+  427  code.
+  428  shell command
+  429  printenv > /var/folders/53/clylk17j4tv8jcsq7r8_z4b00000gn/T/tmp-78602MBbV0MA2IZHutxt
+  430  conda activate dev
+  431  conda install -c pyviz hvplot geoviews\n
+  432   conda list hvplot\n
+  433   conda list geoviews\n
+  434  conda activate dev
+  435  pwd
+  436  cd .
+  437  cd ..
+  438  pwd
+  439  git clone git@github.com:JakeWheelerGitHub/Week_5_Challenge.git
+  440  pwd
+  441  cd Week_5_Challenge
+  442  git add .
+  443  git status
+  444  git init
+  445  git add .
+  446  git status
+  447  git commit -m "Part 1 complete"
+  448  git push
+  449  git init
+  450  git add .
+  451  git commit -m "Evaluate stock/bonds complete"
+  452  git push
+  453  git status
+  454  pwd
+  455  git status
+  456  git init
+  457  git add .
+  458  git commit -m "Evaluate stocks/bonds complete"
+  459  git push
+  460  git init
+  461  git add .
+  462  git status
+  463  git status
+  464  git commit -m "Part 1 Complete+\ngit commit -m "Part 1 Complete"\nconda activate dev\n"
+  465  git commit -m "Part 1 Complete"
+  466  git init
+  467  git add .
+  468  git status
+  469  git commit -m "Part 1 Complete"
+  470  git push
+  471  git inint
+  472  git init
+  473  git add .
+  474  git status
+  475  git commit -m "Coding complete"
+  476  git push
+  477  history 50 > terminal_history.txt\n
+  478  git init
+  479  git add .
+  480  git status
+  481  git commit "added readme"
+  482  git push
+  483  history 50 > terminal_history.txt\n
+  484  git init
+  485  git add .
+  486  git status
+  487  git commit -m "Added terminal history"
+  488  git push
+  489  conda deactivate
+  490  conda update conda\n
+  491  conda activate dev
+  492  conda deactivate
+  493  conda create -n dev python=3.7 anaconda\n
+  494  conda activate dev
+  495  clear
+  496  conda info -e
+  497  conda env export > environment.yml
+  498  conda env export
+  499  conda env export --from-history
+  500  pip install -U hvplot
+  501  conda deactivate
+  502  conda create -n hvplot python=3.10 hvplot=0.8 ipykernel=6.15 jupyterlab=3.4 matplotlib=3.5 numpy=1.22 pandas=1.4 -c conda-forge --strict-channel-priority
+  503  conda activate hvplot
+  504  python -m ipykernel install --user --name=hvplot
+  505  conda info-e
+  506  conda info -e
+  507  jupyter kernelspec list
+  508  jupyter lab
+  509  conda activate dev
+  510  conda activate dev
+  511  clear
+  512  clear
+  513  conda activate dev
+  514  pwd
+  515  cd ..
+  516  cd ..
+  517  cd Challenges
+  518  pwd
+  519  git clone git@github.com:JakeWheelerGitHub/Week_6_Challenge.git
+  520  clear
+  521  pwd
+  522  cd Week_6_Challenge
+  523  git init
+  524  git add .
+  525  git status
+  526  git commit -m "Calculate and Plot the Average Sale Prices per Square Foot" complete
+  527  git commit -m "Calculate and Plot the Average Sale Prices per Square Foot complete"
+  528  git push
+  529  conda activate dev
+  530  conda activate dev
+  531  conda list sqlalchemy
+  532  conda install -c conda-forge voila\n
+  533  conda list viola
+  534  conda install -c conda-forge voila\n
+  535  conda list voila
+  536  conda activate dev
+  537  jupyter lab
+  538  conda activate dev
+  539  git init
+  540  git add .
+  541  pwd
+  542  cd Challenges
+  543  cd Week_6_Challenge
+  544  git add .
+  545  git status
+  546  git commit -m "Compare the Average Sale Prices by Neighborhood complete"
+  547  git push
+  548   pwd
+  549  git init
+  550  git add .
+  551  git status
+  552  git commit -m "Coding complete"
+  553  git push
+  554  git add .
+  555  git status
+  556  git commit -m "Readme added"
+  557  history 50 > terminal_history.txt
+  558  git add .
+  559  git status
+  560  git commit -m "Terminal history added"
+  561  git push
+  562  conda activate dev
+  563  conda activate dev
+  564  pwd
+  565  cd ..
+  566  pwd
+  567  git clone git@github.com:JakeWheelerGitHub/Week_7_Challenge.git
+  568  conda activate dev
+  569  jupyter lab
+  570  conda activate dev
+  571  jupyterlab
+  572  jupyter lab
+  573  conda activate dev
+  574  conda activate dv
+  575  conda activate dev
+  576  jupyter lab
+  577  conda activate dev
+  578  conda activate dev
+  579  conda activate dev
+  580  conda list scikit-learn\n
+  581  conda activate dev
+  582  pwd
+  583  conda activate dev
+  584  cd Fintech
+  585  cd Challenges
+  586  pwd
+  587  git clone git@github.com:JakeWheelerGitHub/Week_10_Challenge.git
+  588  git clone git@github.com:JakeWheelerGitHub/Week_10_Challenge.git
+  589  git clone git@github.com:JakeWheelerGitHub/Week_10_Challenge.git
+  590  conda activate dev
+  591  conda activate dev
+  592  git init
+  593  pwd
+  594  cd Week_10_Challenge
+  595  pwd
+  596  git init
+  597  git add .
+  598  git status
+  599  git push
+  600  git commit -m "K-means completed"
+  601  git push
+  602  conda activate dev
+  603  conda activate dev
+  604  conda activate dev
+  605  conda activate dev
+  606  git init
+  607  git add .
+  608  history 50 > terminal_history.txt\n
+  609  git commit -m 
+  610  git commit -m "coding complete"
+  611  git push
+  612  history 50 > terminal_history.txt\n
+  613  history 50 > terminal_history.txt\n
+  614  history 50 > terminal_history.txt\n
+  615  git add .
+  616  history 50 > terminal_history.txt
+  617  git add .
+  618  git status
+  619  git commit -m "Added readme and terminal history"
+  620  git push
+  621  git commit -m "Updated Readme"
+  622  git add .
+  623  git status
+  624  git push
+  625  git status
+  626  git commit -m "Updated readme"
+  627  git push
+  628  pip install -U hvplot install pystan
+  629  pip install -U hvplot install pystan install fbprophet
+  630  pip install -U hvplot install pystan install fbprophet install hvplot
+  631  pip install -U hvplot install pystan install fbprophet install hvplot install holoviews
+  632  conda activate dev
+  633  pip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews
+  634  pip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install holoviews
+  635  conda activate dev
+  636  pip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install pystan\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install fbprophet\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install hvplot\npip install -U hvplot install pystan install fbprophet install hvplot install holoviews install holoviews install holoviews install holoviews
+  637  conda activate dev
+  638  conda activate dev
+  639  conda activate dev
+  640  pwd
+  641  cd ..
+  642  pwd
+  643  git clone git@github.com:JakeWheelerGitHub/Week_11_Challenge.git
+  644  pwd
+  645  git clone git@github.com:JakeWheelerGitHub/Week_11_Challenge.git
+  646  git clone git@github.com:JakeWheelerGitHub/Week_11_Challenge.git
+  647  conda activate dev
+  648  clear
+  649  conda install -c conda-forge imbalanced-learn\n
+  650  pwd
+  651  git clone git@github.com:JakeWheelerGitHub/Week_12_Challenge.git
+  652  conda activate dev
+  653  git init
+  654  git add .
+  655  pwd
+  656  cd Week_12_Challenge
+  657  git add .
+  658  git init
+  659  git add .
+  660  git commit -m "Coding complete"
+  661  git status
+  662  git push
+  663  cd ..
+  664  cd ..
+  665  pip install tensorflow==1.2.0
+  666  cd ..
+  667  cd..
+  668  pip install tensorflow
+  669  conda activate dev
+  670  conda activate neuralnets
+  671  conda list --show-channel-urls
+  672  conda info-e
+  673  conda info -e
+  674  conda create -n neuralnets python=3.10 ipykernel=6.15 jupyterlab=3.4 matplotlib=3.5 pandas=1.4 scikit-learn=1.1 tensorflow=2.9 -c conda-forge --strict-channel-priority
+  675  conda activate neuralnets
+  676  python -m ipykernel install --user --name neuralnets
+  677  conda activate dev
+  678  conda deactivate
+  679  conda activate neuralnets
+  680  git init
+  681  pwd
+  682  cd Fintech
+  683  cd Challenges
+  684  cd Week_12_Challenge
+  685  git init
+  686  git add .
+  687  git commit -m "Jupyter notebook complete"
+  688  git push
+  689  pwd
+  690  history 50 > terminal_history.txt
+  691  git init .
+  692  git add .
+  693  git commit -m "Credit report and readme added"
+  694  git status
+  695  git add .
+  696  git commit "Credit report and readme added"
+  697  git commit -m "Credit report and readme added"
+  698  git status
+  699  git push
+  700  conda activate dev
+  701  pwd
+  702  cd ..
+  703  git clone git@github.com:JakeWheelerGitHub/Week_13_Challenge.git
+  704  pwd
+  705  cd Week_13_Challenge
+  706  git init
+  707  git add .
+  708  git commit -m "First model created"
+  709  git push
+  710  conda activate dev
+  711  history 50 > terminal_history.txt
+  712  git init 
+  713  git add .
+  714  git commit -m "Coding and readme complete"
+  715  git push
+  716  history 50 > terminal_history.txt
+  717  git init
+  718  gita add .
+  719  git add .
+  720  git status
+  721  git commit -m "Terminal history added"
+  722  git push
+  723  cd ..
+  724  cd ..
+  725  cd ..
+  726  cd ..
+  727  cd ..
+  728  cd ..
+  729   pip insta finta
+  730  pip install finta
+  731  clear
+  732  conda activate dev
+  733  conda activate dev
+  734  conda activate dev
+  735  pwd
+  736  cd Library
+  737  cd ..
+  738  pwd
+  739  cd Users
+  740  cd jakewheeler
+  741  cd Fintech
+  742  cd Challenges
+  743  git clone git@github.com:JakeWheelerGitHub/Week_14_Challenge.git
+  744  git init
+  745  git add .
+  746  pwd
+  747  git rm --cached Week_13_Challenge
+  748  cd Week_14_Challenge
+  749  git init
+  750  git add .
+  751  git status
+  752  git commit -m "Coding complete"
+  753  git push
+  754  git init
+  755  git add .
+  756  git commit -m "Answered questions"
+  757  git push
+  758  git init
+  759  git add .
+  760  git status
+  761  git push
+  762  git commit -m "Images in folder"
+  763  git push
+  764  git init
+  765  git add .
+  766  git commit -m "Readme Added"
+  767  git push
+  768  history 50> terminal_history.txt
+  769  git add .
+  770  git status
+  771  git commit -m "terminal history added"
+  772  git push
+  773  git init
+  774  git add .
+  775  git commit -m "Added images to readme"
+  776  git push
+  777  git status
+  778  git init
+  779  git add .
+  780  git status
+  781  git commit -m "Added terminal history"
+  782  git push
+  783  pwd
+  784  conda activate dev
+  785  pwd
+  786  cd ..
+  787  git clone git@github.com:JakeWheelerGitHub/Week_15_Challenge.git
+  788  conda activate dev
+  789  pwd
+  790  conda activate dec
+  791  conda activate dev
+  792  jupyter lab
+  793  conda activate dev
+  794  cd Group\ Project\ 2
+  795  git clone git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  796  conda activate dev
+  797  pwd
+  798  cd Fintech
+  799  cd Challenges
+  800  cd MLB_ML_Pitching_Prediction
+  801  cd jake
+  802  conda activate dev
+  803  pwd
+  804  cd MLB_ML_Pitching_Prediction/jake
+  805  git add .
+  806  git status
+  807  git commit -m "Dataframe ready to work with"
+  808  git push
+  809  git pull
+  810  git status
+  811  git add .
+  812  git status
+  813  git commit -m "DF ready to work with"
+  814  git push
+  815  git pull
+  816  git config pull.rebase false
+  817  git push
+  818  git pull
+  819  git add .
+  820  git status
+  821  git status
+  822  pwd
+  823  git add .
+  824  git status
+  825  cd ..
+  826  cd..
+  827  cd ..
+  828  cd ..
+  829  git clone git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  830  cd MLB_ML_Pitching_Prediction
+  831  cd jake
+  832  git init
+  833  git add .
+  834  git status
+  835  git commit -m "Started coding"
+  836  git push
+  837  pwd
+  838  git status
+  839  git add .
+  840  git status
+  841  git add . 
+  842  git push origin main
+  843   git push -u origin main
+  844  git status
+  845  git init 
+  846  git add .
+  847  git status
+  848  git commit -m "starter" 
+  849  pwd
+  850  git status
+  851  git branch -u origin/main
+  852  git push -u
+  853  git push git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  854  cd ..
+  855  git pull
+  856  cd jake
+  857  git status
+  858  git add .
+  859  git init .
+  860  git add .
+  861  git status
+  862  git add .
+  863  git status
+  864  git commit -m "Started coding"
+  865  git push
+  866  git push main -> main (fetch first)
+  867  git push git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  868  conda activate dev
+  869  conda activate dev
+  870  pwd
+  871  conda activate dev
+  872  pwd
+  873  git init
+  874  git add .
+  875  git status
+  876  git push
+  877  git remote -v
+  878  pwd
+  879  git init
+  880  git add .
+  881  git commit -m "Random Forest model"
+  882  git status
+  883  conda activate dev
+  884  conda activate dev
+  885  pwd
+  886  cd MLB_ML_Pitching_Prediction
+  887  cd jake
+  888  pwd
+  889  git init
+  890  git add .
+  891  git commit -m "Model"
+  892  git status
+  893  git push
+  894  git remote add git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  895  git push git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  896  git pull
+  897  git pull git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  898  conda activate dev
+  899  conda activate dev
+  900  clear
+  901  pwd
+  902  cd ..
+  903  cd ..
+  904  clear
+  905  cd ..
+  906  pwd
+  907  cd Fintech
+  908  cd Challenges
+  909  git clone git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  910  cd MLB_ML_Pitching_Prediction
+  911  cd jake
+  912  git init
+  913  git add .
+  914  git status
+  915  git commit -m "Added model"
+  916  git push
+  917  git push git@github.com:Rishi-Prasadha/MLB_ML_Pitching_Prediction.git
+  918  conda activate dev
+  919  conda activate dev
+  920  cd Fintech
+  921  cd Week\ 18
+  922  pwd
+  923  app.py
+  924  streamlit run app.py
+  925  pwd
+  926  streamlit run app.py
+  927  streamlit run app.py
+  928  conda activate dev
+  929  pwd
+  930  cd Fintech
+  931  cd Week\ 18
+  932  cd 01-Build_a_Blockchain_Block
+  933  cd Unsolved
+  934  streamlit run app.py
+  935  conda activate dev
+  936  pwd
+  937  cd Fintech
+  938  pwd
+  939  cd Week\ 18
+  940  cd 01-Build_a_Blockchain_Block
+  941  streamlit run app.py
+  942  cd Unsolved
+  943  streamlit run app.py
+  944  conda activate dev
+  945  cd fintech
+  946  cd Week\ 18
+  947  cd 01-Build_a_Blockchain_Block
+  948  cd Solved
+  949  streamlit run app.py
+  950  conda activate devc
+  951  conda activate dev
+  952  cd Fintech
+  953  cd Week\ 18
+  954  cd 02-Hashing_with_Hashlib
+  955  cd Unsolved
+  956  streamlit run app.py
+  957  conda activate dev
+  958  cd Fintech
+  959  cd Week\ 18
+  960  cd 02-Hashing_with_Hashlib
+  961  cd Solved
+  962  streamlit run app.py
+  963  conda activate dev
+  964  cd fintech
+  965  cd week 18
+  966  cd Week\ 18
+  967  cd 02-Hashing_with_Hashlib
+  968  cd Unsolved
+  969  streamlit run app.py
+  970  conda activate dev
+  971  clear
+  972  conda activate dev
+  973  cd 
+  974  cd ..
+  975  cd ..
+  976  cd .
+  977  pip install streamlit
+  978  cd Users
+  979  cd jakewheeler
+  980  cd Fintech
+  981  clear
+  982  pwd
+  983  cd Week\ 18
+  984  cd 03-Hashing_a_Block
+  985  cd Solved
+  986  run app.py
+  987  streamlit run app.py
+  988  condaconda activate dev
+  989  conda activate dev
+  990  cd Week\ 18
+  991  cd 04-Blockchain_Application
+  992  cd Solved
+  993  streamlit run app.py
+  994  conda activate dev
+  995  cd Fintech
+  996  cd Week\ 18
+  997  cd 02-Hashing_with_Hashlib
+  998  cd Unsolved
+  999  cd streamlit run app.py
+ 1000  streamlit run app.py
+ 1001  conda activate dev
+ 1002  pwd
+ 1003  cd Challenges
+ 1004  git clone git@github.com:JakeWheelerGitHub/Week_18_Challenge.git
+ 1005  cd Week_18_Challenge
+ 1006  ls 
+ 1007  cd pychain.py
+ 1008  streamlit run pychain.pyh
+ 1009  streamlit run pychain.py
+ 1010  conda activate dev
+ 1011  cd Challenges
+ 1012  cd Week_18_Challenge
+ 1013  streamlit run pychain.py
+ 1014  conda activate dev
+ 1015  cd'/Users/jakewheeler/Fintech/Challenges/Week_18_Challenge'
+ 1016  pwd
+ 1017  cd Challenges
+ 1018  cd Week_18_Challenge
+ 1019  streamlit run pychain.py
+ 1020  conda activate dev
+ 1021  cd Challenges
+ 1022  cd Week_18_Challenge
+ 1023  ls
+ 1024  streamlit run pychain.py
+ 1025  conda activate dev
+ 1026  cd Week\ 18
+ 1027  cd ..
+ 1028  cd Challenges
+ 1029  cd Week_18_Challenge
+ 1030  git init
+ 1031  git add .
+ 1032  git commit -m "Coding complete"
+ 1033  git push
+ 1034  cd ..
+ 1035  cd Week_18_Challenge
+ 1036  cd README.md
